@@ -277,9 +277,14 @@ main{
     float: left;
 }
 
+.eat .imagenIzquierda img{
+    width: 350px;
+    height: 347.5px;
+    margin-top: 81px;
+}
+
 .eat .textoDerechaLogos{
     float: right;
-    margin-left: 87px;
 }
 
 .eat .textoDerechaLogos .tituloH2{
@@ -290,5 +295,11 @@ main{
 }
 
 .eat .textoDerechaLogos .tituloH2 h2{
-    
+   width: 543px;
+   height: 30px;
+   font-family: "Poppins", serif;
+   font-weight: 600;
+   font-size: 50.52px;
+   line-height: 30px;
+   color: #2B2B2B;
 }
