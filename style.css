@@ -1,0 +1,294 @@
+.fondo{
+    width: 1440px;
+    height: 4038px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+
+main{
+    height: 3524px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 32px;
+}
+
+.logoTexto{
+    display: flex;
+    gap: 12px;
+}
+
+.logoTexto h5{
+    width: 52px;
+    height: 24px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-size: 21.33px;
+    line-height: 24px;
+    text-align: center;
+    color: #285E67;
+}
+
+.opciones ul{
+    display: flex;
+    gap: 40px;
+}
+
+.opciones ul a{
+    width: 66px;
+    height: 24px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2B2B2B;
+    text-decoration: none;
+}
+
+.opciones ul li{
+    list-style: none;
+}
+
+.tituloDescripcion{
+    height: 123px;
+    gap: 17px;
+}
+
+.tituloDescripcion h1{
+  width: 100%;
+  height: 82px;
+  font-family: "Poppins", serif;
+  font-weight: 600;
+  font-size: 65.34px;
+  line-height: 82px;
+  text-align: center;
+}
+
+.tituloDescripcion p{
+    width: 100%;
+    height: 24px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+}
+
+.botonImagenes{
+    margin-top: 66px;
+}
+
+.botonImagenes button{
+    width: 251px;
+    height: 56px;
+    border: none;
+    background-color: #285E67;
+    border-radius: 67px;
+    padding: 16px;
+    gap: 16px;
+    color: #FFFFFF;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-size: 21.33px;
+    line-height: 24px;
+    text-align: center;
+    margin-left: 594.5px;
+}
+
+.botonImagenes button:hover{
+    cursor: pointer;
+}
+
+.botonImagenes .imagenes{
+    display: flex;
+    gap: 48px;
+    margin-left: 70px;
+    margin-top: 58px;
+}
+
+.wellbeingWelldoing{
+    margin-left: 70px;
+    margin-top: 104px;
+    width: 1300px;
+    height: 446px;
+    border: none;
+    border-radius: 12px;
+    padding-right: 112px;
+    padding-left: 112px;
+    gap: 5px;
+    background-color: #F4F4F4;
+}
+
+.wellbeingWelldoing .texto{
+    position: absolute;
+    width: 589px;
+    height: 342.54px;
+    margin-left: 112px;
+    margin-top: 51.73px;
+    float: left;
+}
+
+.wellbeingWelldoing .texto h2{
+    width: 589px;
+    height: 46px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-size: 50.52px;
+    line-height: 62px;
+    color: #2B2B2B;
+}
+
+.wellbeingWelldoing .texto .tablas{
+    display: flex;
+    gap: 69px;
+}
+
+.wellbeingWelldoing .texto .imagenTexto{
+    width: 260px;
+    height: 187.54px;
+    gap: 20px;
+}
+
+.wellbeingWelldoing .texto .tablas .imagenTexto .img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 58px;
+    height: 57px;
+    border: none;
+    border-radius: 9px;
+    padding: 14px 16px;
+    gap: 16px;
+    background-color: #285E67;
+} 
+
+.wellbeingWelldoing .texto .tablas .imagenTexto .img img{
+    width: 26px;
+    height: 29px;
+}
+
+.wellbeingWelldoing .texto .tablas .imagenTexto p{
+    width: 260px;
+    height: 110.54px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2B2B2B;
+}
+
+.wellbeingWelldoing .imagen{
+    float: right;
+    width: 651px;
+    height: 512px;
+}
+
+.wellbeingWelldoing .imagen img{
+    margin-left: 156px;
+}
+
+.freshOrganicProduce{
+    width: 1300px;
+    height: 578px;
+    margin-left: 70px;
+    margin-top: 104px;
+}
+
+.freshOrganicProduce .imagenIzquierda{
+    float: left;
+    gap: 53px;
+}
+
+.freshOrganicProduce .tituloTextoLogos{
+    float: right;
+}
+
+.freshOrganicProduce .tituloTextoLogos .tituloDescripcion2{
+    width: 623.5px;
+    height: 578px;
+    border: none;
+    border-radius: 16px;
+}
+
+.freshOrganicProduce .tituloTextoLogos .tituloDescripcion2 h2{
+   width: 623.5px;
+   height: 116px;
+   font-family: "Poppins", serif;
+   font-weight: 600;
+   font-size: 50.52px;
+   line-height: 62px;
+}
+
+.freshOrganicProduce .tituloTextoLogos .tituloDescripcion2 p{
+    width: 623.5px;
+    height: 83px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: -70px;
+}
+
+.Logos{
+    margin-top: -395px;
+}
+
+.freshOrganicProduce .tituloTextoLogos .logoTexto2{
+    display: flex;
+    gap: 23px;
+    margin-top: 30px;
+}
+
+.freshOrganicProduce .tituloTextoLogos .logoTexto2 .logoImagen{
+    width: 52px;
+    height: 52px;
+    border: 2px solid #285E67;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.freshOrganicProduce .tituloTextoLogos .logoTexto2 p{
+    width: 548.5px;
+    height: 52px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2B2B2B;
+}
+
+.eat{
+    width: 1300px;
+    height: 541px;
+    border: none;
+    border-radius: 12px;
+    padding: 56px 110px 56px 114px;
+    gap: 237px;
+    background-color: #F4F4F4;
+    margin-left: 70px;
+    margin-top: 104px;
+}
+
+.eat .imagenIzquierda{
+    float: left;
+}
+
+.eat .textoDerechaLogos{
+    float: right;
+    margin-left: 87px;
+}
+
+.eat .textoDerechaLogos .tituloH2{
+   width: 543px;
+   height: 99px;
+   padding-top: 48px;
+   gap: 16px;
+}
+
+.eat .textoDerechaLogos .tituloH2 h2{
+    
+}
