@@ -111,7 +111,7 @@ main{
 .wellbeingWelldoing{
     margin-left: 70px;
     margin-top: 104px;
-    width: 1300px;
+    width: 1100px;
     height: 446px;
     border: none;
     border-radius: 12px;
@@ -262,7 +262,7 @@ main{
 }
 
 .eat{
-    width: 1300px;
+    width: 1100px;
     height: 541px;
     border: none;
     border-radius: 12px;
@@ -286,7 +286,7 @@ main{
 .eat .textoDerechaLogos{
     float: right;
     position: relative;
-    left: -200px;
+    left: -50px;
     top: 56px;
 }
 
@@ -316,6 +316,7 @@ main{
     width: 260px;
     height: 187.54px;
     gap: 20px;
+    margin-left: 35px;
 }
 
 .eat .textoDerechaLogos .tablas .imagenTexto .img{
@@ -350,7 +351,7 @@ main{
 .wellbeingStarts{
     background-image: url(img/fondoSection.svg);
     background-size: cover;
-    width: 1520px;
+    width: 1325px;
     height: 667px;
     margin-left: 70px;
     margin-top: 104px;
@@ -362,7 +363,7 @@ main{
     height: 340px;
     gap: 45px;
     top: 160px;
-    left: 425px;
+    left: 350px;
 }
 
 .wellbeingStarts .logoTituloTextoBoton .bordeLogo{
@@ -443,7 +444,7 @@ main{
     top: -100px;
     background-color: #FCE2D7;
     margin-left: 150px;
-    width: 1350px;
+    width: 1150px;
     height: 356px;
     border: none;
     border-radius: 12px;
@@ -456,7 +457,7 @@ main{
     width: 1033px;
     height: 118px;
     top: 119px;
-    left: 150px;
+    left: 75px;
 }
 
 .LogoTexto3{
@@ -486,7 +487,7 @@ main{
 }
 
 footer{
-    width: 1500px;
+    width: 1325px;
     height: 242px;
     background-color: #285E67;
     margin-top: 300px;
