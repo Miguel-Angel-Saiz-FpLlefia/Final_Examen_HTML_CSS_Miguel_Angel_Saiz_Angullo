@@ -349,7 +349,8 @@ main{
 
 .wellbeingStarts{
     background-image: url(img/fondoSection.svg);
-    width: 1500px;
+    background-size: cover;
+    width: 1520px;
     height: 667px;
     margin-left: 70px;
     margin-top: 104px;
@@ -441,7 +442,7 @@ main{
     position: relative;
     top: -100px;
     background-color: #FCE2D7;
-    margin-left: 137.5px;
+    margin-left: 150px;
     width: 1350px;
     height: 356px;
     border: none;
@@ -455,7 +456,7 @@ main{
     width: 1033px;
     height: 118px;
     top: 119px;
-    left: 200px;
+    left: 150px;
 }
 
 .LogoTexto3{
